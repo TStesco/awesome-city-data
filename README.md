@@ -109,6 +109,8 @@ Individual data sets of particular interest within these collections can be list
 |---|---|---|---|---|--- |
 | \* | Health | up | Disease burden, Health | raw | [Institute for Health Metrics and Evaluation (IHME)](http://ghdx.healthdata.org/ihme_data)|
 | \* / \* / \* / \* | Economics | up | Cost of living user contributed data about cities | aggregate stats (paid API) | [Numbeo](https://www.numbeo.com/cost-of-living/) |
+| Africa / \* / \* / \* | * | up | Independent data from African continent | raw | [openAfrica](https://africaopendata.org/) |
+| European Union / \* / \* / \* | * | up | EU government open data | API and raw | [EU Open Data Portal](http://data.europa.eu) |
 | Canada / \*/ \* | Development | up | National Bank House Price Index | aggregate stats | [Teranet-National Bank](https://housepriceindex.ca) |
 | Canada / \* / \* / \* | * | up | Canadian Open Data Inventory | raw | [Open Government Canada](https://open.canada.ca/en/open-data) |
 | Canada / Alberta / Edmonton / * | * | up | Edmonton City data | raw | [City of Edmonton Open Data](https://data.edmonton.ca/browse) |
@@ -116,7 +118,7 @@ Individual data sets of particular interest within these collections can be list
 | Canada / Ontario / Toronto / * | * | up | Toronto City data | raw | [City of Toronto Open Data](https://www.toronto.ca/open/) |
 | Canada / Ontario / Waterloo / * | * | up | Waterloo City data | raw | [City of Waterloo Open Data](https://www.waterloo.ca/en/government/opendata.asp) |
 | Canada / Ontario / Waterloo / * | Infrastructure | up | Trails pedestrian and cyclist counts | raw | [City of Waterloo Open Data](https://hub.arcgis.com/datasets/5d41afff252e45b5b5fe7fc3fd5df3ab_0) |
-| Canada / Ontario / Waterloo / * | Infrastructure | up | Traffic Closures (1/16/2017 to 7/10/2018) | raw | [City of Waterloo Open Data](https://hub.arcgis.com/datasets/4af7c514f77b48db93ce0d0649a31aa9_0) |
+| Canada / Ontario / Waterloo / * | Infrastructure | up | Traffic Closures (1/16/2017-7/10/2018) | raw | [City of Waterloo Open Data](https://hub.arcgis.com/datasets/4af7c514f77b48db93ce0d0649a31aa9_0) |
 | Canada / Ontario / Waterloo / * | Infrastructure | up | Road Traffic Volumes | raw | [City of Waterloo Open Data](https://hub.arcgis.com/datasets/426089c5166c4f8f8f4000acb2fef840_0) |
 | Canada / Ontario / Waterloo / * | Infrastructure | up | Sidewalks | raw | [City of Waterloo Open Data](https://hub.arcgis.com/datasets/01031a7c9b5a4aac96c69bb7cb168971_0) |
 | Canada / Ontario / Waterloo / * | Infrastructure | up | Bridges | raw | [City of Waterloo Open Data](https://hub.arcgis.com/datasets/dbf3911099e44e18aecec1b564abf518_0) |
@@ -124,13 +126,21 @@ Individual data sets of particular interest within these collections can be list
 | Canada / Ontario / Waterloo / * | Development | up | Community Gardens | raw | [City of Waterloo Open Data](https://hub.arcgis.com/datasets/b35d2d768bbb4abb84bf4cef61e43e2c_0) |
 | Canada / Ontario / Waterloo / * | Development | up | Libraries | raw | [City of Waterloo Open Data](https://opendata-city-of-waterloo.opendata.arcgis.com/datasets/d137da7d38c14b3aa0fd42ab3a4cebad_0) |
 | Canada / Ontario / York Region / * | * | up | York Region data | raw | [York Region Open Data](http://www.york.ca/wps/portal/yorkhome/yorkregion/yr/statisticsanddata/opendata/opendata/) |
+| Germany / ? / ? / | Development | up | energy consumption of 107 municipal buildings | raw | https://im.iism.kit.edu/sciber.php |
+| Switzerland / Zürich / Zürich / * | * | up | City of Zürich open data | raw | [Stadt Zürich](https://data.stadt-zuerich.ch/) |
+| Switzerland / Zürich / Zürich / * | Development | up | Social housing construction | raw | [Stadt Zürich](https://data.stadt-zuerich.ch/dataset/gemeinnuetzigerwohnungsbau) |
+| Switzerland / Zürich / Zürich / * | Development | up | Construction activities since 2009 | raw | [Stadt Zürich](https://data.stadt-zuerich.ch/dataset/bau_neubau_whg_bausm_rinh_geb_projstatus_quartier_seit2009_od5011) |
+| Switzerland / Zürich / Zürich / * | Development | up | Completed and demolished apartments since 2009 | raw | [Stadt Zürich](https://data.stadt-zuerich.ch/dataset/bau_neubau_whg-abbr-neu_eigart_quartier_seit2009_od5021) |
+| Switzerland / Zürich / Zürich / * | Development | up | Completed and demolished apartments since 2009 | raw | [Stadt Zürich](https://data.stadt-zuerich.ch/dataset/bau_neubau_whg-abbr-neu_eigart_quartier_seit2009_od5021) |
+| Switzerland / Zürich / Zürich / * | Development | up | Residences by property type and age group since 2008| raw | [Stadt Zürich](https://data.stadt-zuerich.ch/dataset/bau_best_whg_pers_alter_quartier_neubauart_gemeinnuetzig_seit2008) |
+| Switzerland / Zürich / Zürich / * | Development | up | Cinema locations 1907-2018 | raw | [Stadt Zürich](https://data.stadt-zuerich.ch/dataset/kinostandorte-zwischen-1907-und-2018) |
+| Switzerland / Zürich / Zürich / * | Environment | up | Air quality 1983-2012 | raw | [Stadt Zürich](https://data.stadt-zuerich.ch/dataset/luftqualitaet-historisierte-messungen) |
+| Switzerland / Zürich / Zürich / * | Infrastructure | up | City energy consumption 1990-2016 | raw | [Stadt Zürich](https://data.stadt-zuerich.ch/dataset/ugz_endenergiebilanz) |
+| Switzerland / Zürich / Zürich / * | Infrastructure | up | City primary energy balance 1990-2016 | raw | [Stadt Zürich](https://data.stadt-zuerich.ch/dataset/ugz_primaerenergiebilanz) |
 | United States / \* / \* / \* | * | up | US Federal government open data | API and raw | [Data.gov](https://www.data.gov) |
 | United States / \* / \* / \* | Development | up | MicroSoft US Building Footprints | raw | Links on Github [Microsoft/USBuildingFootprints](https://github.com/Microsoft/USBuildingFootprints) |
 | United States / Massachusetts / Cambridge / * | * | up | City of Cambridge data | raw | [www.cambridgema.gov](http://www.cambridgema.gov/departments/opendata) |
 | United States / Massachusetts / Cambridge / * | Development | up | Cambridge property database | raw | [www.cambridgema.gov](https://data.cambridgema.gov/Assessing/Cambridge-Property-Database-FY2017/u7pm-vxas) |
-| European Union / \* / \* / \* | * | up | EU government open data | API and raw | [EU Open Data Portal](http://data.europa.eu) |
-| Germany / ? / ? / | Energy | up | energy consumption of 107 municipal buildings | raw | https://im.iism.kit.edu/sciber.php |
-| Africa / \* / \* / \* | * | up | Independent data from African continent | raw | [openAfrica](https://africaopendata.org/) |
 
 ## Sources to look through
 
@@ -154,7 +164,6 @@ Individual data sets of particular interest within these collections can be list
 - https://www.citygram.org/
 - http://budgetpedia.ca/
 - http://www.greenbuttondata.org
-
 
 # License
 
