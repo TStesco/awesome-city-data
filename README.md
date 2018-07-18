@@ -116,6 +116,9 @@ Individual data sets of particular interest within these collections can be list
 | Canada / Alberta / Edmonton / * | * | up | Edmonton City data | raw | [City of Edmonton Open Data](https://data.edmonton.ca/browse) |
 | Canada / Ontario / Brampton / * | * | up | Brampton City data | raw | [OpenGov Brampton](http://www.brampton.ca/EN/City-Hall/OpenGov/Pages/Welcome.aspx) |
 | Canada / Ontario / Toronto / * | * | up | Toronto City data | raw | [City of Toronto Open Data](https://www.toronto.ca/open/) |
+| Canada / Ontario / Toronto / * | Development | up | Cleared building permits | raw | [City of Toronto Open Data](https://portal0.cf.opendata.inter.sandbox-toronto.ca/dataset/building-permits-cleared/) |
+| Canada / Ontario / Toronto / * | Development | up | Active building permits | raw | [City of Toronto Open Data](https://portal0.cf.opendata.inter.sandbox-toronto.ca/dataset/building-permits-active/) |
+| Canada / Ontario / Toronto / * | Development | up | 3D building massing | raw | [City of Toronto Open Data](https://portal0.cf.opendata.inter.sandbox-toronto.ca/dataset/3d-massing/) |
 | Canada / Ontario / Waterloo / * | * | up | Waterloo City data | raw | [City of Waterloo Open Data](https://www.waterloo.ca/en/government/opendata.asp) |
 | Canada / Ontario / Waterloo / * | Infrastructure | up | Trails pedestrian and cyclist counts | raw | [City of Waterloo Open Data](https://hub.arcgis.com/datasets/5d41afff252e45b5b5fe7fc3fd5df3ab_0) |
 | Canada / Ontario / Waterloo / * | Infrastructure | up | Traffic Closures (1/16/2017-7/10/2018) | raw | [City of Waterloo Open Data](https://hub.arcgis.com/datasets/4af7c514f77b48db93ce0d0649a31aa9_0) |
