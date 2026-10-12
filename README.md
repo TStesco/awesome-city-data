@@ -130,6 +130,7 @@ Individual data sets of particular interest within these collections can be list
 | Canada / Ontario / Waterloo / * | Development | up | Libraries | raw | [City of Waterloo Open Data](https://opendata-city-of-waterloo.opendata.arcgis.com/datasets/d137da7d38c14b3aa0fd42ab3a4cebad_0) |
 | Canada / Ontario / York Region / * | * | up | York Region data | raw | [York Region Open Data](http://www.york.ca/wps/portal/yorkhome/yorkregion/yr/statisticsanddata/opendata/opendata/) |
 | Germany / ? / ? / | Development | up | energy consumption of 107 municipal buildings | raw | https://im.iism.kit.edu/sciber.php |
+| Spain / * / * / | Demographics, Economy | up | Hosted MCP for official municipal population and registered unemployment series; coverage varies by indicator and place. Free account: 500 calls/month via MCP; no-account MCP trial: 25 calls/day/IP. REST data queries require Builder, Pro or prepaid credits. | API (MCP) | [Invokely](https://invokely.ai/docs) |
 | Switzerland / Zürich / Zürich / * | * | up | City of Zürich open data | raw | [Stadt Zürich](https://data.stadt-zuerich.ch/) |
 | Switzerland / Zürich / Zürich / * | Development | up | Social housing construction | raw | [Stadt Zürich](https://data.stadt-zuerich.ch/dataset/gemeinnuetzigerwohnungsbau) |
 | Switzerland / Zürich / Zürich / * | Development | up | Construction activities since 2009 | raw | [Stadt Zürich](https://data.stadt-zuerich.ch/dataset/bau_neubau_whg_bausm_rinh_geb_projstatus_quartier_seit2009_od5011) |
