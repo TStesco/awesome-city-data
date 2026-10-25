@@ -109,6 +109,7 @@ Individual data sets of particular interest within these collections can be list
 |---|---|---|---|---|--- |
 | \* | Health | up | Disease burden, Health | raw | [Institute for Health Metrics and Evaluation (IHME)](http://ghdx.healthdata.org/ihme_data)|
 | \* / \* / \* / \* | Economics | up | Cost of living user contributed data about cities | aggregate stats (paid API) | [Numbeo](https://www.numbeo.com/cost-of-living/) |
+| \* / \* / \* | Infrastructure | up | Airport-to-city transport times, fares and taxi information for 60 cities in 39 countries; official published snapshot collected 26-27 September 2026 (scheduled/stated, not measured) | raw (CSV; CC BY 4.0) | [Mubboo Airport-to-City-Centre Access Index 2026](https://mubboo.flights/research/airport-city-access-index) |
 | Africa / \* / \* / \* | * | up | Independent data from African continent | raw | [openAfrica](https://africaopendata.org/) |
 | European Union / \* / \* / \* | * | up | EU government open data | API and raw | [EU Open Data Portal](http://data.europa.eu) |
 | Canada / \*/ \* | Development | up | National Bank House Price Index | aggregate stats | [Teranet-National Bank](https://housepriceindex.ca) |
